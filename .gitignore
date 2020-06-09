@@ -8,6 +8,7 @@ __pycache__/
 
 # data directory
 data/
+dummy/
 
 # CSV extensions
 *.csv
